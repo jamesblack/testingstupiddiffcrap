@@ -1,3 +1,2 @@
 # testingstupiddiffcrap
-stupid thing wont
-test
+* stupid thing wont test
